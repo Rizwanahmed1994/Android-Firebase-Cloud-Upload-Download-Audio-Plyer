@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891491317220",
+    "firebase_url": "https://smart-music-player-28cc9.firebaseio.com",
+    "project_id": "smart-music-player-28cc9",
+    "storage_bucket": "smart-music-player-28cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891491317220:android:2fb8acf1fd3a3ed69c03f1",
+        "android_client_info": {
+          "package_name": "com.example.smartmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891491317220-tu6ca4jt166eiqenvhoku924fts1gm0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTtSy4PrTdVzXdST0VySN5xCHk7qvdeGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891491317220-tu6ca4jt166eiqenvhoku924fts1gm0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
